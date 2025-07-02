@@ -1,0 +1,9 @@
+
+.wp-block-gallery.is-style-masonry {
+    display: block;
+}
+
+.wp-block-gallery.is-style-masonry figure {
+    width: 100%;
+    margin-bottom: 10px;
+}
